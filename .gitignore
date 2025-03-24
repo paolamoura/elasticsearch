@@ -1,5 +1,9 @@
 *.xlsx
 lab_versao_teste.ipynb
 data/*
+.ipynb_checkpoints
+venv/
+.tool-versions
+output/
 
 !data/queries_fixadas.txt
